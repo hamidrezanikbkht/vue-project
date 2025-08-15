@@ -1,35 +1,14 @@
-# vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+- [Demo Project](https://vue-project-ten-sigma.vercel.app/sidedishes)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Developed by hamidreza nikbakht
 
-## Customize configuration
+- Created - 2025
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Technologies Used - Html , css , vue , Heroicons , 
 
-## Project Setup
+- Role - Frontend
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+- How to reach me : with my [instagram](https://www.instagram.com/hamidrezanikbakht?igsh=dTRxeTdudDRpbmc0)
+- How to reach me : with my [in](https://www.linkedin.com/in/hamidreza-nikbakht-787164334)
