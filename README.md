@@ -1,6 +1,6 @@
 
 
-- [Demo Project](https://vue-project-ten-sigma.vercel.app/sidedishes)
+- [Demo Project](https://vue-project-ten-sigma.vercel.app/)
 
 - Developed by hamidreza nikbakht
 
